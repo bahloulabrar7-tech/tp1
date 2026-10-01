@@ -86,7 +86,7 @@ export default function App() {
       </ul>
 
       <footer>
-        <small>TP Virtualisation &amp; Cloud ikg — version Vercel complète</small>
+        <small>TP Virtualisation &amp; Cloud iee — version Vercel complète</small>
       </footer>
     </div>
   );
