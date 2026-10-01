@@ -17,7 +17,7 @@ export default function App() {
     } catch (e) {
       setError('Impossible de contacter l\'API.');
     } finally {
-      setLoading(false);
+      setLoading(false);  
     }
   }
 
